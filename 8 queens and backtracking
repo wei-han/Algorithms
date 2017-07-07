@@ -38,7 +38,7 @@ int main()
     return 0;
 }
 
-/////////////
+/////////////https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/tutorial/
 is_attacked( x, y, board[][], N)
     //checking for row and column
     if any cell in xth row is 1
